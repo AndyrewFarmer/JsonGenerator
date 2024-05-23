@@ -1,1 +1,7 @@
-{"data":[{"value":"London","active":0},{"value":"Dublin"},{"active":0,"value":"Paris"}]}
+{
+  "data": [
+    { "value": "London","active": 0 },
+    { "value": "Dublin" },
+    { "active": 0,"value": "Paris" }
+  ]
+}
